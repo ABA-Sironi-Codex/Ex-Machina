@@ -12,6 +12,7 @@
 
 Lord G.G. Byron, *Manfred*, versione di Carmelo Bene, 1979.
 
+---
 
 Questo *repository* raccoglie risorse, *tutorial*, *link* ed esercizi per l'uso di sistemi di Intelligenza Artificiale applicati alla creatività artistica.
 
