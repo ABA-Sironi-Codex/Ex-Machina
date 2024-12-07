@@ -1,7 +1,5 @@
 # Ex Machina
 
-*Risorse per la creazione di immagini, musiche, suoni, testi e video con sistemi di Intelligenza Artificiale*
-
 > Parlami! Ho errato sulla terra e non ho mai trovato a te l’uguale.<br>
 > Parlami! T’ho cercato tra le stelle a vanire,<br>
 > ho contemplato il cielo inutilmente, senza trovarti mai. Parlami!<br>
