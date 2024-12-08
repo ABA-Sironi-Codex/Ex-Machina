@@ -32,6 +32,7 @@ Cito solo i servizi più noti e affidabili, ma la rete è piena di ottime altern
 
 - [RunComfy](https://www.runcomfy.com/it/comfyui-web)
 - [RunDiffusion](https://rundiffusion.com/)
+- [ThinkDiffusion](https://www.thinkdiffusion.com/) (offre anche test gratuiti)
 
 ## Sistemi a pagamento non basati su Stable Diffusion
 

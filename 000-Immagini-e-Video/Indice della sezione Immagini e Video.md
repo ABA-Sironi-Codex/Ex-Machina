@@ -17,3 +17,10 @@ tags:
 - [[000 - Introduzione a Stable Diffusion]]
 - [[001 - Richieste Hardware]]
 - [[002 - Generatori On Line]]
+
+## ComfyUI
+
+### Introduzione a ComfyUI
+
+- [000 - Che cos'è ComfyUI](000-CheCosaÈComfiUI)
+- [001 - Il primo workflow](001-IlPrimoWorkflow)

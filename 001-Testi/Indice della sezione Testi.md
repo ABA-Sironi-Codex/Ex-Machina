@@ -19,3 +19,11 @@ tags:
 	- [[002-CreazionePersonaggi]]
 		- [[Elysia Redwood]]
 		- [[Fritz Benner]]
+
+## GPT4All
+
+- [002-Introduzione a GPT4All](002-GPT4ALL)
+
+## Alternative
+
+- [003-Le principali alternative *open source* a BackyardAI e GPT4All](003-Alternative)
