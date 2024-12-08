@@ -10,9 +10,7 @@
 
 ---
 
-| ![[PigmalioneGalatea.jpg]] | 
-|:--:| 
-| *Pigmalione e Galatea (Davide Riboli, Stable Diffusion, 2024)* |
+![[PigmalioneGalatea.jpg | *Pigmalione e Galatea*<br>Davide Riboli, Stable Diffusion, 2024]]
 
 ---
 
