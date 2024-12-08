@@ -10,10 +10,9 @@
 
 ---
 
-<figure class="image">
-  <img src="PigmalioneGalatea.jpg" alt="Pigmalione e Galatea (Davide Riboli, Stable Diffusion, 2024)">
-  <figcaption>Pigmalione e Galatea (Davide Riboli, Stable Diffusion, 2024)</figcaption>
-</figure>
+| ![[PigmalioneGalatea.jpg]] | 
+|:--:| 
+| *Pigmalione e Galatea (Davide Riboli, Stable Diffusion, 2024)* |
 
 ---
 
