@@ -6,9 +6,14 @@
 > Guarda, i demoni a me attorno, hanno pietà di me che non li temo<br>
 > ed ho pietà per te soltanto. Parlami!<br>
 > Sdegnata, se vuoi, ma parlami!<br>
-> Dimmi non so che cosa, ma che io ti senta una volta ancora.<br>
+> Dimmi non so che cosa, ma che io ti senta una volta ancora[^1].<br>
 
-Lord G.G. Byron, *Manfred*, versione di Carmelo Bene, 1979.
+---
+
+<figure class="image">
+  <img src="PigmalioneGalatea.jpg" alt="Pigmalione e Galatea (Davide Riboli, Stable Diffusion, 2024)">
+  <figcaption>Pigmalione e Galatea (Davide Riboli, Stable Diffusion, 2024)</figcaption>
+</figure>
 
 ---
 
@@ -17,4 +22,6 @@ Questo *repository* raccoglie risorse, *tutorial*, *link* ed esercizi per l'uso 
 Ne ho iniziato la creazione il 7 dicembre 2024, come forma di diario e block-notes personale dove appuntare i progressi e le "ricette" dei miei studi ed è in costante aggiornamento. Ovunque possibile, le risorse di riferimento sono distribuite sotto licenze *Open Source*.
 
 Tutti i testi sono italiano e il *repository* è organizzato in forma di vault [Obsidian](https://obsidian.md). 
+# 
 
+[^1]:  Lord G.G. Byron, *Manfred*, versione di Carmelo Bene, 1979.

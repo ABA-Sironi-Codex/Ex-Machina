@@ -3,7 +3,11 @@ title: Indice della sezione "Immagini e Video"
 date: sabato, 07/12/2024
 tags:
   - absolute-beginner
+  - comfyui
   - stable-diffusion
+  - tecniche-avanzate
+  - tecniche-base
+  - video
 ---
 
 - *Ultima modifica: sabato, 07/12/2024, alle 13:59.*
@@ -24,3 +28,11 @@ tags:
 
 - [000 - Che cos'è ComfyUI](000-CheCosaÈComfiUI)
 - [001 - Il primo workflow](001-IlPrimoWorkflow)
+
+### Workflow Base
+
+- [Immagini fotorealistiche](ImmaginiFotorealistiche)
+
+### Workflow Avanzati
+
+- [Animare oggetti](Animare%20Oggetti)

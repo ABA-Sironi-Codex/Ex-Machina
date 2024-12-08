@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8cddb063f8ad8ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6e332b4c845860c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Immagini-e-Video/02-ComfyUI/02-WorkflowAvanzati/Animare Oggetti.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Animare Oggetti"
+              "title": "README"
             }
           }
         ]
@@ -131,40 +131,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6e332b4c845860c7",
   "lastOpenFiles": [
+    "PigmalioneGalatea.jpg",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/ImmaginiFotorealistiche.md",
+    "000-Immagini-e-Video/Indice della sezione Immagini e Video.md",
+    "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/000-CheCosaÈComfiUI.md",
+    "000-Immagini-e-Video/01-PrincipiantiAssoluti/000 - Introduzione a Stable Diffusion.md",
+    "000-Immagini-e-Video/02-ComfyUI/02-WorkflowAvanzati/Animare Oggetti.md",
     "README.md",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Immagini-fotorealistiche-con-Comfy-UI,-RealisticVision-e-BadDream,-UnrealisticDream,-FastNegative-Embedding.md",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/13.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/12.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/11.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/10.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/09.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/08.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07b.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07a.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/06b.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/06a.png",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche",
+    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/Nuova cartella",
     "001-Testi/Indice della sezione Testi.md",
     "001-Testi/003-Alternative/003-Alternative.md",
-    "001-Testi/003-Alternative/Imgs/sillytavern.png",
     "001-Testi/003-Alternative/Imgs/sillytavern.png.crdownload",
-    "001-Testi/003-Alternative/Imgs/msty-hero-image-light.webp",
     "001-Testi/003-Alternative/Imgs/msty-hero-image-light.webp.crdownload",
-    "001-Testi/003-Alternative/Imgs/Oobabooga_UI-2.png",
     "001-Testi/003-Alternative/Imgs/Oobabooga_UI-2.png.crdownload",
-    "001-Testi/003-Alternative/Imgs/jan.png",
     "001-Testi/003-Alternative/Imgs/jan.png.crdownload",
-    "001-Testi/003-Alternative/Imgs/ollama.png",
     "001-Testi/003-Alternative/Imgs/ollama.png.crdownload",
     "001-Testi/003-Alternative/Imgs",
     "001-Testi/003-Alternative",
     "001-Testi/002-GPT4ALL/002-GPT4ALL.md",
-    "001-Testi/002-GPT4ALL/Imgs/gpt4all_home.png",
     "001-Testi/002-GPT4ALL/Imgs/gpt4all_home.png.crdownload",
-    "001-Testi/002-GPT4ALL/Imgs",
-    "001-Testi/002-GPT4ALL/Nuova cartella",
     "099-ObsidianTools/Templates/Post Base.md",
     "001-Testi/001-BackyardAI/001-Introduzione-a-BackyardAI.md",
-    "000-Immagini-e-Video/01-PrincipiantiAssoluti/000 - Introduzione a Stable Diffusion.md",
-    "000-Immagini-e-Video/Indice della sezione Immagini e Video.md",
     "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/001-IlPrimoWorkflow.md",
-    "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/Imgs/queue.png",
-    "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/Imgs/vae.png",
-    "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/Imgs/EmptyLatent.png",
-    "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/Imgs/nodocheckpoint.webp",
-    "000-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/000-CheCosaÈComfiUI.md",
     "000-Immagini-e-Video/01-PrincipiantiAssoluti/002 - Generatori On Line.md",
-    "000-Immagini-e-Video/02-ComfyUI/02-WorkflowAvanzati/Animare Oggetti.md",
     "000-Immagini-e-Video/02-ComfyUI/02-WorkflowAvanzati/Indice Materiali Avanzati.md",
     "001-Testi/001-BackyardAI/SchedePersonaggio/Fritz Benner.md",
     "001-Testi/001-BackyardAI/SchedePersonaggio/Elysia Redwood.md",
@@ -176,8 +179,6 @@
     "099-ObsidianTools/ReadITLaterStuff/How to use Stable Diffusion - Stable Diffusion Art.md",
     "099-ObsidianTools/Combinazioni di tastiera.md",
     "09-Tools/Varia/PluginList.md",
-    "099-ObsidianTools/Varia/PluginList.md",
-    "099-ObsidianTools/BMO/Profiles/BMO.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas"
   ]
