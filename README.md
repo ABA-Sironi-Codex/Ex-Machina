@@ -18,7 +18,7 @@ Questo *repository* raccoglie risorse, *tutorial*, *link* ed esercizi per l'uso 
 
 Ne ho iniziato la creazione il 7 dicembre 2024, come forma di diario e block-notes personale dove appuntare i progressi e le "ricette" dei miei studi ed è in costante aggiornamento. Ovunque possibile, le risorse di riferimento sono distribuite sotto licenze *Open Source*.
 
-Tutti i testi sono italiano e il *repository* è organizzato in forma di vault [Obsidian](https://obsidian.md). 
+Tutti i testi sono italiano e il *repository* è organizzato in forma di *vault* [Obsidian](https://obsidian.md).  Per visualizzare correttamente le pagine, le immagini e i collegamenti, clonate sul vostro computer o scaricate l'intero *repository* e apritelo con Obsidian.
 # 
 
 [^1]:  Lord G.G. Byron, *Manfred*, versione di Carmelo Bene, 1979.
