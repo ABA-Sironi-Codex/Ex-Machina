@@ -26,4 +26,4 @@ tags:
 
 ## Alternative
 
-- [003-Le principali alternative *open source* a BackyardAI e GPT4All](003-Alternative)
+- [003-Le principali alternative *open source* a BackyardAI e GPT4All](003-Alternative.md)

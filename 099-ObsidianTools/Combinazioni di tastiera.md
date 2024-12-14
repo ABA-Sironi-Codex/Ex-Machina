@@ -7,7 +7,7 @@ tags:
 
 - Inserisci data: CTRL + ALT + D
 - Inserisci/Elimina elenco numerato: CTRL + ALT + N
-- Inserisci/Elimina elenco puntato: CTRL + ALT + P
+- Inserisci/Elimina elenco puntato: CTRL + ALT + L
 - Inserisci nota a piedipagina: CTRL + ALT + F
 - Inserisci ora: CTRL + ALT + O
 - Ordina righe alfabeticamente: CTRL + ALT + S
