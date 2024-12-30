@@ -26,13 +26,13 @@ tags:
 
 ### Introduzione a ComfyUI
 
-- [000 - Che cos'è ComfyUI](000-CheCosaÈComfiUI)
-- [001 - Il primo workflow](001-IlPrimoWorkflow)
+- [000 - Che cos'è ComfyUI](000-CheCosaÈComfiUI.md)
+- [001 - Il primo workflow](001-IlPrimoWorkflow.md)
 
 ### Workflow Base
 
-- [Immagini fotorealistiche](ImmaginiFotorealistiche)
+- [Immagini fotorealistiche](ImmaginiFotorealistiche.md)
 
 ### Workflow Avanzati
 
-- [Animare oggetti](Animare%20Oggetti)
+- [Animare oggetti](Animare%20Oggetti.md)

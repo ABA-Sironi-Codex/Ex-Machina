@@ -51,5 +51,5 @@ ComfyUI può essere utilizzato scaricando ed installando lo *script* (e tutti i 
 
 Per utilizzare ComfyUI in locale, sono disponibili versioni per tutti i sistemi operativi e dettagliate istruzioni d'uso sul [repository ufficiale](https://github.com/comfyanonymous/ComfyUI).
 
-Per i servizi online, c'è l'[imbarazzo della scelta](002%20-%20Generatori%20On%20Line).
+Per i servizi online, c'è l'[imbarazzo della scelta](002%20-%20Generatori%20On%20Line.md).
 

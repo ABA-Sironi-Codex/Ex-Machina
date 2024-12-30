@@ -29,11 +29,11 @@ Questo articolo presenta GPT4All, un software che consente l'esecuzione locale d
 
 ### Modelli Linguistici di Grandi Dimensioni (LLM)
 
-Gli LLM sono algoritmi di intelligenza artificiale progettati per comprendere e generare testo in linguaggio naturale. Addestrati su vasti insiemi di dati, questi modelli possono eseguire una varietà di compiti linguistici, tra cui traduzione, riassunto e risposta a domande. Tuttavia, la loro efficacia può essere limitata dalla staticità dei dati di addestramento e dalla possibilità di generare informazioni inesatte o obsolete. Molti LLM sono *open source.
+Gli LLM sono algoritmi di intelligenza artificiale progettati per comprendere e generare testo in linguaggio naturale. Addestrati su vasti insiemi di dati, questi modelli possono eseguire una varietà di compiti linguistici, tra cui traduzione, riassunto e risposta a domande. Tuttavia, la loro efficacia può essere limitata dalla staticità dei dati di addestramento e dalla possibilità di generare informazioni inesatte o obsolete. Molti LLM sono *open source*.
 
 ### Huggingface
 
-il principale centro di distribuzione di LLM *open source* è [Huggingface](https://huggingface.co/), una piattaforma, fondata nel 2016, che offre un ecosistema completo di strumenti e modelli per sviluppatori, ricercatori e aziende e singoli utenti con l'obiettivo di semplificare l'accesso e l'implementazione di tecnologie avanzate. La sua community conta migliaia di contributori che arricchiscono continuamente i *repository* *open source*, rendendo il sito un punto di riferimento per l'IA etica e accessibile.
+Il principale centro di distribuzione di LLM *open source* è [Huggingface](https://huggingface.co/), una piattaforma, fondata nel 2016, che offre un ecosistema completo di strumenti e modelli per sviluppatori, ricercatori e aziende e singoli utenti con l'obiettivo di semplificare l'accesso e l'implementazione di tecnologie avanzate. La sua community conta migliaia di contributori che arricchiscono continuamente i *repository* *open source*, rendendo il sito un punto di riferimento per l'IA etica e accessibile.
 
 ### Generative Pre-trained Transformer (GPT)
 

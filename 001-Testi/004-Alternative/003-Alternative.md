@@ -93,6 +93,7 @@ Un elenco di altre ottime alternative simili.
 - [Anything-LLM](https://github.com/Mintplex-Labs/anything-llm)
 - [Farfalle](https://github.com/rashadphz/farfalle)
 - [KoboldCPP](https://github.com/LostRuins/koboldcpp)
+- [LLM Studio](https://lmstudio.ai/)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [OpenWebUI](https://github.com/open-webui/open-webui)
 - [Pinokio](https://pinokio.computer/)
