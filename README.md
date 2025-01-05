@@ -10,7 +10,14 @@
 
 ---
 
-![[PigmalioneGalatea.jpg | *Pigmalione e Galatea*<br>Davide Riboli, Stable Diffusion, 2024]]
+![[Pygmalion_and_Galatea_01.jpg]]
+![[Pygmalion_and_Galatea_02.jpg]]
+
+
+|     |     |
+| --- | --- |
+|  **Pigmalione e Galatea (prima versione)**<br>Jean-Léon Gérôme, 1890 (Museo d'Arte Metropolitana, New York   |   **Pigmalione e Galatea (seconda versione)**<br>Jean-Léon Gérôme, 1890(?) (Museo d'Arte Metropolitana, New York  |
+
 
 ---
 

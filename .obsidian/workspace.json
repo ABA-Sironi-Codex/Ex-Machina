@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff4bb75217ec1e6",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f210750343a31a99",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Corsi/Mengaroni-2025/Incontro-01.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Incontro-01"
+              "title": "README"
             }
           }
         ]
@@ -113,9 +113,19 @@
               "icon": "lucide-list",
               "title": "Struttura di README"
             }
+          },
+          {
+            "id": "e403a3b0a81a98ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -128,14 +138,23 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "homepage:Open homepage": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f210750343a31a99",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Working_in_Marble.jpg",
+    "The-Artist-and-His-Model.jpg",
+    "Working_in_Marble_(Gerome).jpg",
+    "Gerome--Haggin--The-Artist-and-His-Model.jpg",
+    "Pygmalion_and_Galatea_02.jpg",
+    "Pygmalion_and_Galatea_01.jpg",
+    "001-Testi/001-BackyardAI/SchedePersonaggio/Elysia Redwood.md",
     "README.md",
-    "001-Testi/004-Alternative/003-Alternative.md",
+    "Senza nome.md",
     "000-Corsi/Mengaroni-2025/Incontro-01.md",
+    "001-Testi/004-Alternative/003-Alternative.md",
     "001-Testi/003-ChatGPT/DR-GPTs/Artisan-Quantum.md",
     "001-Testi/003-ChatGPT/DR-GPTs/000-IndiceGPTs.md",
     "001-Testi/002-GPT4ALL/002-GPT4ALL.md",
@@ -148,7 +167,6 @@
     "000-Corsi",
     "001-Testi/001-BackyardAI/001-Introduzione-a-BackyardAI.md",
     "001-Testi/001-BackyardAI/SchedePersonaggio/Fritz Benner.md",
-    "001-Testi/001-BackyardAI/SchedePersonaggio/Elysia Redwood.md",
     "001-Testi/003-ChatGPT/DR-GPTs/TriCOD3r.md",
     "099-ObsidianTools/Templates/GPTs.md",
     "001-Testi/003-ChatGPT/DR-GPTs/CodePress-Master.md",
@@ -169,15 +187,9 @@
     "002-Immagini-e-Video/01-PrincipiantiAssoluti/003-InstallazioniVeloci.md",
     "001-Testi/001-BackyardAI/002-CreazionePersonaggi.md",
     "PigmalioneGalatea.jpg",
-    "002-Immagini-e-Video/02-ComfyUI/02-WorkflowAvanzati/Animare Oggetti.md",
     "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/13.png",
     "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/12.png",
     "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/11.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/10.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/09.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/08.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07b.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07a.png",
     "Senza nome 1.canvas",
     "Senza nome.canvas"
   ]
