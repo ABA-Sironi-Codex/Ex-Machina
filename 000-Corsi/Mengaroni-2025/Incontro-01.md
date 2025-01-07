@@ -16,7 +16,7 @@ tags:
 
 - Introduzione al corso | [Programma completo](ProgrammaMengaroni.pdf)
 - Introduzione all'Arte Generativa (lettura consigliata) |  [What is Generative Art?](WhatIsGenerativeArt-Galanter.pdf) di [Philip Galanter](https://www.philipgalanter.com/)
-- Introduzione all'Arte Involontaria (lettura consigliata) | [Breve trattato sull'Arte Involontaria](https://www.quodlibet.it/libro/9788822902283) di [Gilles Clement](https://www.quodlibet.it/catalogo/autore/117/gilles-clement)
+- Introduzione all'Arte Involontaria (lettura consigliata) | [Breve trattato sull'Arte Involontaria](https://www.quodlibet.it/libro/9788822902283) di [Gilles Clement](https://www.quodlibet.it/catalogo/autore/117/gilles-clement) (anche [qui](https://drive.google.com/file/d/1Oy5tAcVQYH-BKcwGd8URxfA_GNzsiGmw/view?usp=sharing)).
 - Esempio 01: [il pendolo semplice](https://www.myphysicslab.com/pendulum/pendulum-en.html)
 - Esempio 02a: [il doppio pendolo](https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
 - Esempio 02b: [il doppio pendolo lightscribe](DoublePendulumLightPainting.jpg)
@@ -34,3 +34,4 @@ tags:
 	- [BackyardAI](001-Introduzione-a-BackyardAI) e [Creazione Personaggi](002-CreazionePersonaggi)
 	- [Alternative](003-Alternative)
 - Invito alla lettura: [EducatingAI](https://nickpotkalitsky.substack.com/)
+- Invito alla lettura: [Intelligenza Artificiale per il Terzo Millennio](https://drive.google.com/file/d/1MJHPEnhtzpNl_pMP4QcYyao6CGJtmAIP/view?usp=sharing)

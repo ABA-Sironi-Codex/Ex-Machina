@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "dc95ff0681bb9a44",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7430f4c82155c3c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -51,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 324.5
   },
   "right": {
     "id": "955449f16f7dac81",
@@ -142,8 +137,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f8e501693747a778",
   "lastOpenFiles": [
+    "001-Testi/001-BackyardAI/002-CreazionePersonaggi.md",
+    "000-Corsi/Mengaroni-2025/Incontro-01.md",
+    "000-Corsi/Mengaroni-2025/ProgrammaMengaroni.pdf",
+    "README.md",
+    "Senza nome.md",
+    "001-Testi/004-Alternative/003-Alternative.md",
     "Working_in_Marble.jpg",
     "The-Artist-and-His-Model.jpg",
     "Working_in_Marble_(Gerome).jpg",
@@ -151,15 +152,10 @@
     "Pygmalion_and_Galatea_02.jpg",
     "Pygmalion_and_Galatea_01.jpg",
     "001-Testi/001-BackyardAI/SchedePersonaggio/Elysia Redwood.md",
-    "README.md",
-    "Senza nome.md",
-    "000-Corsi/Mengaroni-2025/Incontro-01.md",
-    "001-Testi/004-Alternative/003-Alternative.md",
     "001-Testi/003-ChatGPT/DR-GPTs/Artisan-Quantum.md",
     "001-Testi/003-ChatGPT/DR-GPTs/000-IndiceGPTs.md",
     "001-Testi/002-GPT4ALL/002-GPT4ALL.md",
     "000-Corsi/Mengaroni-2025/DoublePendulumLightPainting.jpg",
-    "000-Corsi/Mengaroni-2025/ProgrammaMengaroni.pdf",
     "099-ObsidianTools/Combinazioni di tastiera.md",
     "000-Corsi/Mengaroni-2025/Syllabus Generale.md",
     "000-Corsi/README.md",
@@ -185,11 +181,9 @@
     "002-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/001-IlPrimoWorkflow.md",
     "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/ImmaginiFotorealistiche.md",
     "002-Immagini-e-Video/01-PrincipiantiAssoluti/003-InstallazioniVeloci.md",
-    "001-Testi/001-BackyardAI/002-CreazionePersonaggi.md",
     "PigmalioneGalatea.jpg",
     "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/13.png",
     "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/12.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/11.png",
     "Senza nome 1.canvas",
     "Senza nome.canvas"
   ]

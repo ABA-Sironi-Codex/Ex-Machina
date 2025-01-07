@@ -87,7 +87,7 @@ SillyTavern è una alternativa molto potente a [BackyardAI](001-Introduzione-a-B
 
 ## Altro
 
-Un elenco di altre ottime alternative simili.
+Un elenco di altre ottime alternative.
 
 - [Alpaca](https://github.com/Jeffser/Alpaca) (solo Linux)
 - [Anything-LLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -95,6 +95,7 @@ Un elenco di altre ottime alternative simili.
 - [KoboldCPP](https://github.com/LostRuins/koboldcpp)
 - [LLM Studio](https://lmstudio.ai/)
 - [LocalAI](https://github.com/mudler/LocalAI)
+- [Google Notebook LM](https://notebooklm.google.com)
 - [OpenWebUI](https://github.com/open-webui/open-webui)
 - [Pinokio](https://pinokio.computer/)
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt)
