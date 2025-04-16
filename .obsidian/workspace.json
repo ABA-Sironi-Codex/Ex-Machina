@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc95ff0681bb9a44",
+        "id": "52608c547ce170fd",
         "type": "tabs",
         "children": [
           {
-            "id": "7430f4c82155c3c4",
+            "id": "eab3604c46d14a92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "README"
             }
           }
         ]
@@ -36,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Esplora risorse"
@@ -46,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 258.5
   },
   "right": {
     "id": "955449f16f7dac81",
@@ -133,57 +139,56 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "homepage:Open homepage": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8e501693747a778",
+  "active": "eab3604c46d14a92",
   "lastOpenFiles": [
-    "001-Testi/001-BackyardAI/002-CreazionePersonaggi.md",
-    "000-Corsi/Mengaroni-2025/Incontro-01.md",
-    "000-Corsi/Mengaroni-2025/ProgrammaMengaroni.pdf",
-    "README.md",
-    "Senza nome.md",
-    "001-Testi/004-Alternative/003-Alternative.md",
-    "Working_in_Marble.jpg",
-    "The-Artist-and-His-Model.jpg",
-    "Working_in_Marble_(Gerome).jpg",
-    "Gerome--Haggin--The-Artist-and-His-Model.jpg",
-    "Pygmalion_and_Galatea_02.jpg",
-    "Pygmalion_and_Galatea_01.jpg",
-    "001-Testi/001-BackyardAI/SchedePersonaggio/Elysia Redwood.md",
-    "001-Testi/003-ChatGPT/DR-GPTs/Artisan-Quantum.md",
-    "001-Testi/003-ChatGPT/DR-GPTs/000-IndiceGPTs.md",
-    "001-Testi/002-GPT4ALL/002-GPT4ALL.md",
-    "000-Corsi/Mengaroni-2025/DoublePendulumLightPainting.jpg",
-    "099-ObsidianTools/Combinazioni di tastiera.md",
-    "000-Corsi/Mengaroni-2025/Syllabus Generale.md",
-    "000-Corsi/README.md",
-    "000-Corsi/Mengaroni-2025",
-    "000-Corsi",
-    "001-Testi/001-BackyardAI/001-Introduzione-a-BackyardAI.md",
-    "001-Testi/001-BackyardAI/SchedePersonaggio/Fritz Benner.md",
-    "001-Testi/003-ChatGPT/DR-GPTs/TriCOD3r.md",
-    "099-ObsidianTools/Templates/GPTs.md",
-    "001-Testi/003-ChatGPT/DR-GPTs/CodePress-Master.md",
-    "099-ObsidianTools/Varia/PluginList.md",
-    "001-Testi/003-ChatGPT/DR-GPTs",
-    "001-Testi/003-ChatGPT",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/IndiceWorkflowbase.md",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/LTX-txt2vid.zip",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/LTX-img2vid.zip",
-    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/LTX-img2vid/LTX-img2vid.json",
-    "000-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/LTX-img2vid",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/SfondoTrasparente.zip",
-    "002-Immagini-e-Video/01-PrincipiantiAssoluti/000 - Introduzione a Stable Diffusion.md",
-    "002-Immagini-e-Video/Indice della sezione Immagini e Video.md",
-    "002-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/000-CheCosaÈComfiUI.md",
-    "002-Immagini-e-Video/02-ComfyUI/00-IntroduzioneAComfiUI/001-IlPrimoWorkflow.md",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/ImmaginiFotorealistiche.md",
+    "003-Suoni/Udio/Udio.md",
+    "003-Suoni/Udio/Goldenhair_01.mp3",
+    "003-Suoni/Udio",
+    "003-Suoni/Suno",
+    "003-Suoni/Udio/Goldenhair_02.mp3",
+    "003-Suoni/Goldenhair_02.mp3.crdownload",
+    "001-ChatBot/003-ChatGPT/000-IndiceGPTs.md",
+    "003-Suoni/Suno/Suno.md",
+    "004-Dall-E-Runway-Sora/DifferenzePromptSoraDallE.md",
+    "Senza nome",
+    "002-ComfyUI-StableDiffusion/02-WorkflowBase/IndiceWorkflowbase.md",
+    "004-Dall-E-Runway-Sora",
+    "003-Suoni",
+    "002-ComfyUI-StableDiffusion/02-WorkflowBase/ImmaginiFotorealistiche.md",
+    "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfiUI/001-IlPrimoWorkflow.md",
+    "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfiUI/000-CheCosaÈComfiUI.md",
     "002-Immagini-e-Video/01-PrincipiantiAssoluti/003-InstallazioniVeloci.md",
-    "PigmalioneGalatea.jpg",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/13.png",
-    "002-Immagini-e-Video/02-ComfyUI/01-WorkflowBase/Imgs/ImmaginiFotorealisitiche/12.png",
+    "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/002 - Generatori On Line.md",
+    "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/001 - Richieste Hardware.md",
+    "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/000 - Introduzione a Stable Diffusion.md",
+    "001-ChatBot/004-Alternative/003-Alternative.md",
+    "README.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Manuale Edwood.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Edwood.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Artisan-Quantum.md",
+    "001-Testi/003-ChatGPT/DR-GPTs/Edwood/Edwood.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-vcvrack-link.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-td-link.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-td-01.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-prompt.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-processing-link.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-comfy.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Edwood.png",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Manuale Artisan Quantum.md",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Conoscenza",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza",
+    "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Artisan Quantum.webp",
+    "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/FritzBennerBackground.jpg",
+    "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/Elysia Redwood.png",
+    "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/FritzBenner.png",
+    "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/ElysiaRedwoodBackground.jpg",
+    "001-ChatBot/004-Alternative/Imgs/sillytavern.png",
+    "001-ChatBot/004-Alternative/Imgs/Oobabooga_UI-2.png",
+    "001-ChatBot/004-Alternative/Imgs/ollama.png",
+    "001-ChatBot/004-Alternative/Imgs/msty-hero-image-light.webp",
     "Senza nome 1.canvas",
     "Senza nome.canvas"
   ]

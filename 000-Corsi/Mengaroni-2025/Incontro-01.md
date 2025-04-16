@@ -30,8 +30,8 @@ tags:
 	- [Gemini](https://gemini.google.com/u/1/app)
 -   Strumenti 04: breve introduzione ai sistemi di Intelligenza Artificiale Generativa nell'ambito del Linguaggio Naturale (soluzioni *open source* e locali)
 	- Architetture base e richieste hardware
-	- [GPT4All](002-GPT4ALL)
-	- [BackyardAI](001-Introduzione-a-BackyardAI) e [Creazione Personaggi](002-CreazionePersonaggi)
-	- [Alternative](003-Alternative)
+	- [GPT4All](002-GPT4ALL.md)
+	- [BackyardAI](001-Introduzione-a-BackyardAI.md) e [Creazione Personaggi](002-CreazionePersonaggi.md)
+	- [Alternative](003-Alternative.md)
 - Invito alla lettura: [EducatingAI](https://nickpotkalitsky.substack.com/)
 - Invito alla lettura: [Intelligenza Artificiale per il Terzo Millennio](https://drive.google.com/file/d/1MJHPEnhtzpNl_pMP4QcYyao6CGJtmAIP/view?usp=sharing)
